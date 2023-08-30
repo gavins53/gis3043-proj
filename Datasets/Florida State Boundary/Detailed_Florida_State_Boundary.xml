@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20190313</pubdate>
+                <title>Detailed Florida State Boundary</title>
+                <onlink>https://gis.fdot.gov/arcgis/rest/services/Admin_Boundaries/FeatureServer/0</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This layer is an Enterprise Level Map Service of the Detailed boundary of the State of Florida.</abstract>
+            <purpose>This layer is an Enterprise Level Map Service of the Detailed boundary of the State of Florida.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20190313</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>This layer is updated on an as needed basis.</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-87.7808</westbc>
+                <eastbc>-79.7388</eastbc>
+                <northbc>31.241</northbc>
+                <southbc>24.3271</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Florida</themekey>
+                <themekey>FL</themekey>
+                <themekey>FDOT</themekey>
+                <themekey>Boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>NO WARRANTIES: This site and its content is made available by the Florida Department of Transportation on an "as is", "as available" basis without warranties of any kind, express or implied. DISCLAIMER OF LIABILITY: The user of this application and data assumes all responsibility and risk for the use of both. Under no circumstances, including negligence, shall the Florida Department of Transportation, or its employees be liable for any DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY or CONSEQUENTIAL DAMAGES, or LOST PROFITS that result from the use, misuse or inability to use the application and data. Nor shall the Florida Department of Transportation, or its employees be liable for any damages resulting from or related to reliance; mistakes, omissions, interruptions, deletion of files, computer viruses, errors, defects, or any failure of performance, communications failure, theft, destruction or unauthorized access to the application and data.</useconst>
+        <datacred>Florida Department of Transportation
+Civil Integrated Management
+Data Systems Support
+605 Suwannee Street 
+Tallahassee, Florida 32399
+</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20190313</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Florida Department of Transportation</cntorg>
+                    <cntper>William Isaacs</cntper>
+                </cntorgp>
+                <cntpos>ArcGIS Online Administrator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>605 Suwannee Street</address>
+                    <city>Tallahassee</city>
+                    <state>Florida</state>
+                    <postal>32399</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>850-414-4111</cntvoice>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
