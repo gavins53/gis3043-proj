@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, April 25, 2023 6:36:53 PM</msg><msg code="539" type="100">ERROR 000539:   File "&lt;expression&gt;", line 1
+    3 if 3 is &gt;= 0 else NULL
+              ^
+SyntaxError: invalid syntax
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, April 25, 2023 6:36:53 PM (Elapsed Time: 0.10 seconds)</msg></messages>

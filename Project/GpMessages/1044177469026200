@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, April 25, 2023 6:48:43 PM</msg><msg code="539" type="100">ERROR 000539:   File "&lt;string&gt;", line 6
+    '*' = transform('*')
+    ^
+SyntaxError: cannot assign to literal
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, April 25, 2023 6:48:43 PM (Elapsed Time: 0.06 seconds)</msg></messages>
