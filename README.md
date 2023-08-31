@@ -1,5 +1,5 @@
 # gis3043-proj
-This is the final project repository for GIS3043 - Intro to Geospatial Information Systems @ The University of Florida
+This is the final project repository for GIS3043 - Intro to Geospatial Information Systems @ The University of Florida, Spring 2023
 
 ## Contributors
 - Gavin Sidhu
